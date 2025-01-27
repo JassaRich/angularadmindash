@@ -6,5 +6,5 @@ Powerful Free Angular 18+ Material Template <br>
 <br>
 Please run below commands:
 <br>
-** npm install
-** ng serve
+# **npm install** <br>
+# **ng serve**
